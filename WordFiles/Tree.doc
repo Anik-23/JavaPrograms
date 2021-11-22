@@ -1,0 +1,45 @@
+Tree ds is-
+-Tree is a non-linear data structure which organize data in hierarchical structure and this is a recursive definition.
+-A tree is a connected graph without any circuits.
+-If a graph, there is one and only one path between every pair of vertices, then graph is called a tree.
+
+The important prop of tree ds are:
+-There is one and only one path between every pair of vertices in a tree.
+-A tree with n vertices has exactly(n-1) edges.
+-A graph is a tree if and only if it is minimally connected.
+-Any connected graph with n vertices and (n-1) edges is a tree.
+
+Tree terminology:
+Child- Any node which is a descendent of some node is called child node, All the nodes except the root nodes are child nodes. 
+Parent-The node which has a branch from it to any other node and the node which has one or node children is called parent node , In a tree a parent node can have any no. of child nodes. 
+Edge- An edge is a connecting link between two vertices or nodes of a tree. In a tree with n number of nodes, there are exactly (n-1) edges.
+Root- The first node from where the tree originates is called as root node. Node A is the only root node. 
+Sibling-Nodes that belongs to the same parent are called siblings
+Degree- The degree of a node is equal to the total no. of children of that node. Degree of a tree is the highest degree i=of a node among all the nodes in the tree.
+Internal node- Any node which has at least one child node is called an internal node. These are also known as non-terminal nodes , every non-leaf node is an internal node.
+Leaf node- The node which does not have any child is called as a leaf node. Also called as External nodes or terminal nodes.
+Level- In a tree, each step from top to bottom is called as level of a tree, the level count starts with 0 by default and increment by 1 at each level or step.
+Height-The total no. of edges that lies on the longest path from any leaf node to a particular node is called as height of that node, Height of a tree is the height of root node, Height of all leaf nodes =0.
+Depth-The total no. of edges from root node to a particular node is called as depth of that node, Depth of a tree is the total no. of edges from root node to a leaf node in the longest path, Depth of the root node=0 .
+Subtree-In a tree, each child form a node forms a subtree recursively, Every node forms a sub-tree on its parent node. 
+Forest-
+
+Binary tree:
+A binary tree is a special tree DS in which each node can have at most 2 children.
+Thus , in a binary tree each node has either 0 child,1 child or 2 child.
+Two types – Label trees and unlabeled trees
+-A binary tree is unlabeled if its nodes are not assigned any label.
+ No. of different Binary tree possible with ‘n’ unlabeled nodes= (2nCn)/(n+1).
+Thus, With 3 unlabeled nodes,5 unlabeled binary trees are possible.
+
+-A binary tree is labeled if all its nodes are assigned a label.
+No. of different Binary tree possible with ‘n’ labeled nodes= (2nCn)/(n+1)x n!.
+
+Applications are – org. Charts
+		File system
+		Programming Environment
+		Decesion Making tree
+
+MultiWay tree- Multiway Search tree- m-way tree and B-tree.
+
+
