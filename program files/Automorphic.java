@@ -1,3 +1,4 @@
+// Automorphic
 import java.util.Scanner;
 public class Automorphic {
 

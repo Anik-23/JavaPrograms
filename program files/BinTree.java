@@ -1,3 +1,4 @@
+// Tree program - Binary tree
 import java.util.Scanner;
 public class BinTree 
 {
