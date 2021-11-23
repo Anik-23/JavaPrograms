@@ -19,3 +19,13 @@ Android Applications.
 -AAPT(Android Asset Packaging Tool)
 -DDMS(Delvic Debug Monitoring System)
 -AIDL(Android Interface Defination Language)
+
+
+Cycle Of Android Activity-
+-OnCreate()
+-OnStart()
+-OnResume()
+-OnPause()
+-OnStop()
+-OnDestroy()
+-OnRestart()
