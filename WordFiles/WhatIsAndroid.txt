@@ -36,3 +36,8 @@ Dialog Boxes- 4types
 2.DatePikerDialog
 3.TimePickerDialog
 4.ProgressDialog
+
+AndroidManifest.xml-
+Declared in the root directory and contains info about the application that the
+android system mustt know before the codes can be executed.
+It is essential in every Android application.
