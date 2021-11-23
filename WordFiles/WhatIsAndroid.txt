@@ -13,3 +13,9 @@ Five layers of Android stack-:
 3. Android Runtime.
 4. Android Framework.
 Android Applications.
+
+
+-ADB(Android Debug Bridge)
+-AAPT(Android Asset Packaging Tool)
+-DDMS(Delvic Debug Monitoring System)
+-AIDL(Android Interface Defination Language)
