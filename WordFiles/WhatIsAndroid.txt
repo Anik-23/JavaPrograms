@@ -29,3 +29,10 @@ Cycle Of Android Activity-
 -OnStop()
 -OnDestroy()
 -OnRestart()
+
+
+Dialog Boxes- 4types
+1.AlertDialog
+2.DatePikerDialog
+3.TimePickerDialog
+4.ProgressDialog
