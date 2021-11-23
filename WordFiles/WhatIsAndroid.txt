@@ -1,0 +1,5 @@
+ Components of Android Application-
+1.Services- Background functionalities.
+2.Activity- A single screen which represents GUI(graphical user interface)
+3.Broadcast receivers- Is a mechanism used for listining to system-level events ike for incoming calls,SMS,ect.
+4.Content providers- This will share the data between various applications.
