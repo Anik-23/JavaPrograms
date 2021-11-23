@@ -3,3 +3,13 @@
 2.Activity- A single screen which represents GUI(graphical user interface)
 3.Broadcast receivers- Is a mechanism used for listining to system-level events ike for incoming calls,SMS,ect.
 4.Content providers- This will share the data between various applications.
+
+Can publish their app on - Mobango, SideME, Amazon app store, Opera mobile store etc.
+
+
+Five layers of Android stack-:
+1. Linux Kernel.
+2. Libraries.
+3. Android Runtime.
+4. Android Framework.
+Android Applications.
