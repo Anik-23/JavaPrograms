@@ -49,3 +49,5 @@ Explicit Intent - used to invoke activity class.
 
 
 Class-It is a compiled form of .java file that android uses to convertwd to valid .apk file
+Activity-It is a single screen which displays GUI(graphical user interface).
+file- It can be of any extention file.
