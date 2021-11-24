@@ -44,3 +44,5 @@ It is essential in every Android application.
 
 Intent- A messaging obj that is used to request an action from other component 
 of an application .Also used to launch an activity, send SMS,send email,etc.
+Implicit Intent - used to invoke system component.
+Explicit Intent - used to invoke activity class.
