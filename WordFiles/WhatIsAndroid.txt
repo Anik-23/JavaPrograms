@@ -55,4 +55,9 @@ file- It can be of any extention file.
 What is a Toast?
 It is a pop up message appeared on the screen used to display message regarding the operation initiated by the user.
 It does not accept interaction.
- 
+
+What is context?
+It is the current state of the application or object.
+
+Troubleshooting techniques- Compatibility check(Check wether app is OS Compatible or not)
+Memory management
